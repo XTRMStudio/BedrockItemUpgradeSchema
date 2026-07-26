@@ -1,0 +1,2 @@
+# BedrockItemUpgradeSchema
+Independent continuation mirror of pmmp/BedrockItemUpgradeSchema
